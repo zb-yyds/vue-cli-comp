@@ -1,0 +1,8 @@
+/* 
+用来重定义变量  element
+*/
+
+body,
+#app {
+  --el-menu-item-height: var(--jy-menu-item-height);
+}

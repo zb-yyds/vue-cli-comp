@@ -1,0 +1,19 @@
+/* 
+  变量
+*/
+:root {
+  /* #### 主色 */
+  --xx-primary-6: #d0963e;
+
+  /* 背景色 */
+  --xx-background-color-1: #000000;
+
+  /* 文字颜色 */
+  --xx-color-text-1: #0ac3d2;
+  --xx-color-text-2: #ee302f;
+  --xx-color-text-3: #9f9f9f;
+  --xx-color-text-4: #ececec;
+  --xx-color-text-5: #ec9a02;
+  --xx-color-text-6: #d6d00d;
+  --xx-color-text-8: #4fb650;
+}

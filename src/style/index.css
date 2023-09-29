@@ -1,0 +1,29 @@
+
+@import url(./variable.css);
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 16px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #3e78d0;
+  text-decoration: none;
+  cursor: pointer;
+}
